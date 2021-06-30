@@ -1,0 +1,30 @@
+Confusion Matrix
+A confusion matrix, also known as an error matrix, is a summarized table used to assess the performance of a classification model. The number of correct and incorrect predictions are summarised with count values.
+
+
+
+Remember that we have studied the binary type of logistic regression, where the outcome is either True, or False.
+
+In this confusion matrix, the values are as follows -
+
+True Positives - The values that were actually True and were predicted to be True as well
+True Negatives - The values that were actually False and were predicted to be False as well
+False Positives - The values that were actually False but were predicted to be True.
+False Negatives - The values that were actually True but where predicted to be False.
+
+--------------------------------------------------------------
+Accuracy
+The accuracy of a model is equal to -
+
+True Positives + True Negatives / True Positives + True Negatives + False Positives + False Negatives
+
+--------------------------------------------------------------------
+
+
+Wrap-up:
+
+we learned about confusion matrix
+we saw how to create a confusion matrix and check for the accuracy
+in linear regression and multilinear regression
+
+
